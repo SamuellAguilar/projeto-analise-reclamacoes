@@ -109,3 +109,5 @@ gerar insights relevantes sobre a experiência do consumidor. Mesmo com
 uma análise exploratória simples, foi possível identificar padrões e
 informações que podem apoiar decisões de melhoria nos serviços
 prestados pelas empresas.
+
+##Projeto desenvolvido para fins educacionais no curso de Análise de Dados – EBAC em parceria com a Semantix.
