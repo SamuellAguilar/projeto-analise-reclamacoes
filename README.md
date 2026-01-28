@@ -1,6 +1,3 @@
-# projeto-analise-reclamacoes
-Projeto de análise exploratória de dados com dados do Consumidor.gov.br
-
 # Análise de Reclamações de Consumidores – Consumidor.gov.br
 
 ## 📌 Descrição do Projeto
