@@ -100,22 +100,6 @@ O link para o dashboard está disponível na pasta `dashboard/`.
 - Looker Studio
 - GitHub
 
----
-
-## 📁 Estrutura do Repositório
-projeto-analise-reclamacoes/
-│
-├── data/
-│ └── reclamacoes_tratadas.csv
-│
-├── notebooks/
-│ └── eda_reclamacoes.ipynb
-│
-├── dashboard/
-│ └── link_looker.md
-│
-└── README.md
-
 
 ---
 
